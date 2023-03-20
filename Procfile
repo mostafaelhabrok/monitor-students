@@ -1,0 +1,1 @@
+web: npx peerjs --port 9000
