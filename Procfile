@@ -1,1 +1,1 @@
-web: npx peerjs --port 443
+web: node server.js
