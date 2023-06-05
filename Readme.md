@@ -9,5 +9,5 @@ To install required dependencies
 ## npx peerjs --port 9000
 
 ## UPDATE:
-## Now you can use node server.js instead
+## Now you can use {node server.js} instead
 To start server
